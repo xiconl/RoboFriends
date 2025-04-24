@@ -4,23 +4,15 @@
 
 A simple and responsive React web app that displays a list of robot friends. Users can search through the robot cards using a dynamic search bar. This project demonstrates the power of React components, props, state, and filtering.
 
-![RoboFriends Screenshot](https://user-images.githubusercontent.com/your-username/your-image.png) <!-- Replace with your own image link -->
-
 ---
 
-## 🚀 Live Demo
+## Deployment
 
-Check it out live here: [robofriends-app.netlify.app](https://robofriends-app.netlify.app)  
-*(Replace with your deployed link)*
+The project is deployed on vercel, a platform known for it's fast and easy deployment of web applications
+
+Check it out live here: [RoboFriends](https://robo-friends-wine.vercel.app/)  
 
 ---
-
-## 🛠 Tech Stack
-
-- ⚛️ **React** – Frontend 
-- 🔤 **JavaScript (ES6+)**
-- 🎨 **CSS** – 
-
 
 ## 🛠 Tech Stack
 
@@ -34,11 +26,11 @@ Check it out live here: [robofriends-app.netlify.app](https://robofriends-app.ne
         - JSONPlaceHolder API - For generating robot details
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/robofriends.git
+   git clone https://github.com/xiconl/RoboFriends.git
    cd robofriends
 
 
@@ -89,15 +81,9 @@ Check it out live here: [robofriends-app.netlify.app](https://robofriends-app.ne
         git clone 
 
     2. Navigate to the project folder
-        cd Background-Generator-App
+        cd robofriends
 
-    3. Open the index.html file in your browser
-
-## Deployment
-
-The project is deployed on vercel, a platform known for it's fast and easy deployment of web applications
-
-Live Demo; [RoboFriend App](https://color-background-generator.vercel.app)
+    3. Open the local host [RoboApp](http://localhost:5173/) in your browser
 
 ## License
 
